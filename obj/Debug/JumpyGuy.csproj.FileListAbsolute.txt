@@ -1,0 +1,7 @@
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\obj\Debug\JumpyGuy.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\obj\Debug\JumpyGuy.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\bin\Debug\JumpyGuy.exe.config
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\bin\Debug\JumpyGuy.exe
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\bin\Debug\JumpyGuy.pdb
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\obj\Debug\JumpyGuy.exe
+C:\Users\marle\source\repos\JumpyGuy\JumpyGuy\obj\Debug\JumpyGuy.pdb
